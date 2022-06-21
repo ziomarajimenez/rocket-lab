@@ -1,0 +1,10 @@
+.allCapsules{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: #5A5A5A;
+}
+
+h2{
+    color:#5A5A5A; 
+}

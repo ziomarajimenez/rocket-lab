@@ -1,0 +1,21 @@
+.statusBox{
+    width: 380px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.rocketStatus{
+    width: 9%;
+    position: relative;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+h4{
+    color:white;
+    font-size: 17px;
+    font-weight: 100;
+    position: relative;
+    margin-left: 8%;
+    top: 20%;
+}

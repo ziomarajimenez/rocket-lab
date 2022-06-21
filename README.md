@@ -6,10 +6,10 @@ The final result is shown below:
 ![rocket-lab](https://github.com/ziomarajimenez/rocket-lab/blob/main/src/assets/rocket-lab.png)
 # Technologies
 
-React
-API requests
-CSS modules
-CSS animations
+- React
+- API requests
+- CSS modules
+- CSS animations
 
 # Deployed project
 

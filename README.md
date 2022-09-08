@@ -4,9 +4,10 @@ This is a React based project, intents to replicate the [rocket-lab](https://roc
 
 The final result is shown below:
 ![rocket-lab](https://github.com/ziomarajimenez/rocket-lab/blob/main/src/assets/rocket-lab.png)
+
 # Technologies
 
-- React
+- React.js
 - API requests
 - CSS modules
 - CSS animations
